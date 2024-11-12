@@ -29,11 +29,10 @@ body {
 }
 .a {
     transform: rotate(180deg);
-    margin-top: 10px;
 }
 
 .bilet {
-    width: 1200px;
+    width: 1220px;
     height: 560px;
     border: 2px solid black;
     position: relative;
@@ -48,7 +47,7 @@ body {
 
 
 .bilet-top {
-    width: 1200px;
+    width: 1220px;
     height: 560px;
     border: 2px solid black;
     position: relative;
@@ -62,8 +61,8 @@ body {
 }
 
 .bilet-middle {
-    width: 1200px;
-    height: 550px;
+    width: 1220px;
+    height: 560px;
     border: 2px solid black;
     margin: 0 auto;
     position: relative;
@@ -72,7 +71,7 @@ body {
 
 #img, .img {
     position: absolute;
-    width: 1199px;
+    width: 1217px;
     height: 557px;
     object-fit: cover;
 }
@@ -297,7 +296,7 @@ h2 {
     padding: 50px;
     position: relative;
     z-index: 1234567890;
-    margin-left: 15px;
+    margin-left: 66px;
 }
 
 
